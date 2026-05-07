@@ -1,4 +1,5 @@
-"""Escreva um programa que leia dois números inteiros e imprima:
+"""
+Escreva um programa que leia dois números inteiros e imprima:
 a soma dos dois números
 o produto dos dois números
 Cada resultado deve ser exibido em uma linha separada.
